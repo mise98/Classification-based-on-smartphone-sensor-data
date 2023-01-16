@@ -2,7 +2,7 @@
 My bachelor's thesis with topic "Classification based on smartphone sensor data"
 
 
-#Abstract
+## Abstract
 Today’s smartphones include many kinds of sensors that produce large amounts of data. This data
 can be used in different machine learning applications. One of these applications is human activity
 recognition (HAR), where sensor data for example can be used for transportation mode detection.
